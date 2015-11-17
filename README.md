@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository to understand basics of GitHub
+Hello world repository to understand basics of GitHub.
